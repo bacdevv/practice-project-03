@@ -321,9 +321,6 @@ a {
 	padding: 65px 0;
 }
 
-.features__main {
-}
-
 .features__main--name {
 	color: var(--gray-text-l);
 	font-size: 1.2rem;
@@ -356,7 +353,7 @@ a {
 
 .features-list__item--heading {
 	margin-top: 26px;
-	color:var(--black-heading);
+	color: var(--black-heading);
 	font-size: 2rem;
 	font-weight: 600;
 }
